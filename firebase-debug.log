@@ -1,0 +1,42 @@
+[debug] [2019-07-07T00:24:30.924Z] ----------------------------------------------------------------------
+[debug] [2019-07-07T00:24:30.926Z] Command:       /usr/local/bin/node /usr/local/bin/firebase init
+[debug] [2019-07-07T00:24:30.926Z] CLI Version:   7.0.2
+[debug] [2019-07-07T00:24:30.926Z] Platform:      darwin
+[debug] [2019-07-07T00:24:30.926Z] Node Version:  v11.3.0
+[debug] [2019-07-07T00:24:30.928Z] Time:          Sat Jul 06 2019 17:24:30 GMT-0700 (Pacific Daylight Time)
+[debug] [2019-07-07T00:24:30.928Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2019-07-07T00:24:30.941Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-07-07T00:24:30.942Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /Users/Tyler/Desktop/Projects/GAME_ON
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2019-07-07T00:24:36.002Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] [2019-07-07T00:24:36.002Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token  
+ <request body omitted>
+[debug] [2019-07-07T00:24:36.159Z] <<< HTTP RESPONSE 200
+[debug] [2019-07-07T00:24:36.184Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects?page_size=100  
+ 
+[debug] [2019-07-07T00:24:36.434Z] <<< HTTP RESPONSE 200
+[info] i  Using project gameon-draper (GameON)
+[info] 
+=== Database Setup
+[info] 
+[info] Firebase Realtime Database Rules allow you to define how your data should be
+[info] structured and when your data can be read from and written to.
+[info] 
