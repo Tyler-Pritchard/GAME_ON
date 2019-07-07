@@ -448,8 +448,8 @@ body {
 }
 
 .card__side--back-1 {
-  background-image: -webkit-gradient(linear, left top, right bottom, from(#ffb900), to(#ff7730));
-  background-image: linear-gradient(to right bottom, #ffb900, #ff7730);
+  background-image: -webkit-gradient(linear, left top, right bottom, from(#2e3d6e), to(#3b2e6e));
+  background-image: linear-gradient(to right bottom, #2e3d6e, #3b2e6e);
 }
 
 .card__side--back-2 {
@@ -483,8 +483,8 @@ body {
 }
 
 .card__picture--1 {
-  background-image: -webkit-gradient(linear, left top, right bottom, from(#ffb900), to(#ff7730)), url(../img/CandyGameboy.jpg);
-  background-image: linear-gradient(to right bottom, #ffb900, #ff7730), url(../img/CandyGameboy.jpg);
+  background-image: -webkit-gradient(linear, left top, right bottom, from(#2e3d6e), to(#3b2e6e)), url(../img/CandyGameboy.jpg);
+  background-image: linear-gradient(to right bottom, #2e3d6e, #3b2e6e), url(../img/CandyGameboy.jpg);
 }
 
 .card__picture--2 {
@@ -516,8 +516,8 @@ body {
 }
 
 .card__heading-span--1 {
-  background-image: -webkit-gradient(linear, left top, right bottom, from(rgba(255, 185, 0, 0.85)), to(rgba(255, 119, 48, 0.85)));
-  background-image: linear-gradient(to right bottom, rgba(255, 185, 0, 0.85), rgba(255, 119, 48, 0.85));
+  background-image: -webkit-gradient(linear, left top, right bottom, from(rgba(46, 61, 110, 0.85)), to(rgba(59, 46, 110, 0.85)));
+  background-image: linear-gradient(to right bottom, rgba(46, 61, 110, 0.85), rgba(59, 46, 110, 0.85));
 }
 
 .card__heading-span--2 {
@@ -880,7 +880,7 @@ body {
 }
 
 .form__input:focus:invalid {
-  border-bottom: 3px solid #ff7730;
+  border-bottom: 3px solid #3b2e6e;
 }
 
 .form__input::-webkit-input-placeholder {
@@ -1186,7 +1186,7 @@ body {
   background-color: #333;
   padding: 10rem 0;
   font-size: 1.4rem;
-  color: #f7f7f7;
+  color: #c3c9db;
 }
 
 @media only screen and (max-width: 56.25em) {
@@ -1237,7 +1237,7 @@ body {
 }
 
 .footer__link:link, .footer__link:visited {
-  color: #f7f7f7;
+  color: #c3c9db;
   background-color: #333;
   text-decoration: none;
   text-transform: uppercase;
@@ -1446,7 +1446,7 @@ body {
 }
 
 .section-about {
-  background-color: #f7f7f7;
+  background-color: #c3c9db;
   padding: 25rem 0;
   margin-top: -20vh;
 }
@@ -1479,7 +1479,7 @@ body {
 }
 
 .section-tours {
-  background-color: #f7f7f7;
+  background-color: #c3c9db;
   padding: 25rem 0 15rem 0;
   margin-top: -10rem;
 }
