@@ -483,18 +483,18 @@ body {
 }
 
 .card__picture--1 {
-  background-image: -webkit-gradient(linear, left top, right bottom, from(#ffb900), to(#ff7730)), url(../img/#.jpg);
-  background-image: linear-gradient(to right bottom, #ffb900, #ff7730), url(../img/#.jpg);
+  background-image: -webkit-gradient(linear, left top, right bottom, from(#ffb900), to(#ff7730)), url(../img/CandyGameboy.jpg);
+  background-image: linear-gradient(to right bottom, #ffb900, #ff7730), url(../img/CandyGameboy.jpg);
 }
 
 .card__picture--2 {
-  background-image: -webkit-gradient(linear, left top, right bottom, from(lightblue), to(darkblue)), url(../img/#.jpg);
-  background-image: linear-gradient(to right bottom, lightblue, darkblue), url(../img/#.jpg);
+  background-image: -webkit-gradient(linear, left top, right bottom, from(lightblue), to(darkblue)), url(../img/retro_game.jpg);
+  background-image: linear-gradient(to right bottom, lightblue, darkblue), url(../img/retro_game.jpg);
 }
 
 .card__picture--3 {
-  background-image: -webkit-gradient(linear, left top, right bottom, from(#2998ff), to(#5643fa)), url(../img/#.jpg);
-  background-image: linear-gradient(to right bottom, #2998ff, #5643fa), url(../img/#.jpg);
+  background-image: -webkit-gradient(linear, left top, right bottom, from(#2998ff), to(#5643fa)), url(../img/xenoblade.jpg);
+  background-image: linear-gradient(to right bottom, #2998ff, #5643fa), url(../img/xenoblade.jpg);
 }
 
 .card__heading {

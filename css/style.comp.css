@@ -369,7 +369,7 @@ body {
 }
 
 .card__side--back-1 {
-  background-image: linear-gradient(to right bottom, #ffb900, #ff7730);
+  background-image: linear-gradient(to right bottom, lightblue, teal);
 }
 
 .card__side--back-2 {
@@ -399,7 +399,7 @@ body {
 }
 
 .card__picture--1 {
-  background-image: linear-gradient(to right bottom, #ffb900, #ff7730), url(../img/#.jpg);
+  background-image: linear-gradient(to right bottom, lightblue, teal), url(../img/Jake.png);
 }
 
 .card__picture--2 {
@@ -429,7 +429,7 @@ body {
 }
 
 .card__heading-span--1 {
-  background-image: linear-gradient(to right bottom, rgba(255, 185, 0, 0.85), rgba(255, 119, 48, 0.85));
+  background-image: linear-gradient(to right bottom, lightblue, teal);
 }
 
 .card__heading-span--2 {
@@ -760,7 +760,7 @@ only screen and (hover: none) {
 }
 
 .form__input:focus:invalid {
-  border-bottom: 3px solid #ff7730;
+  border-bottom: 3px solid darkblue;
 }
 
 .form__input::-webkit-input-placeholder {
