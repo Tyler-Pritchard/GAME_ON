@@ -151,12 +151,12 @@ body {
 }
 
 ::-moz-selection {
-  background-color: red;
+  background-color: blue;
   color: #fff;
 }
 
 ::selection {
-  background-color: red;
+  background-color: blue;
   color: #fff;
 }
 
@@ -165,7 +165,7 @@ body {
   font-weight: 400;
   font-size: 1.6rem;
   line-height: 1.7;
-  color: red;
+  color: #000;
 }
 
 .heading-primary {
@@ -218,8 +218,8 @@ body {
   text-transform: uppercase;
   font-weight: 700;
   display: inline-block;
-  background-image: -webkit-gradient(linear, left top, right top, from(yellow), to(blue));
-  background-image: linear-gradient(to right, yellow, blue);
+  background-image: -webkit-gradient(linear, left top, right top, from(lightblue), to(darkblue));
+  background-image: linear-gradient(to right, lightblue, darkblue);
   -webkit-background-clip: text;
   color: transparent;
   letter-spacing: .2rem;
@@ -302,7 +302,7 @@ body {
   height: 100%;
   width: 100%;
   z-index: -1;
-  opacity: .15;
+  opacity: .55;
   overflow: hidden;
 }
 
@@ -358,12 +358,12 @@ body {
 }
 
 .btn--green {
-  background-color: red;
+  background-color: blue;
   color: #fff;
 }
 
 .btn--green::after {
-  background-color: red;
+  background-color: blue;
 }
 
 .btn::after {
@@ -389,17 +389,17 @@ body {
 
 .btn-text:link, .btn-text:visited {
   font-size: 1.6rem;
-  color: red;
+  color: blue;
   display: inline-block;
   text-decoration: none;
-  border-bottom: 1px solid red;
+  border-bottom: 1px solid blue;
   padding: 3px;
   -webkit-transition: all .2s;
   transition: all .2s;
 }
 
 .btn-text:hover {
-  background-color: red;
+  background-color: blue;
   color: #fff;
   -webkit-box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.15);
           box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.15);
@@ -453,8 +453,8 @@ body {
 }
 
 .card__side--back-2 {
-  background-image: -webkit-gradient(linear, left top, right bottom, from(yellow), to(blue));
-  background-image: linear-gradient(to right bottom, yellow, blue);
+  background-image: -webkit-gradient(linear, left top, right bottom, from(lightblue), to(darkblue));
+  background-image: linear-gradient(to right bottom, lightblue, darkblue);
 }
 
 .card__side--back-3 {
@@ -483,18 +483,18 @@ body {
 }
 
 .card__picture--1 {
-  background-image: -webkit-gradient(linear, left top, right bottom, from(#ffb900), to(#ff7730)), url(../img/nat-5.jpg);
-  background-image: linear-gradient(to right bottom, #ffb900, #ff7730), url(../img/nat-5.jpg);
+  background-image: -webkit-gradient(linear, left top, right bottom, from(#ffb900), to(#ff7730)), url(../img/#.jpg);
+  background-image: linear-gradient(to right bottom, #ffb900, #ff7730), url(../img/#.jpg);
 }
 
 .card__picture--2 {
-  background-image: -webkit-gradient(linear, left top, right bottom, from(yellow), to(blue)), url(../img/nat-6.jpg);
-  background-image: linear-gradient(to right bottom, yellow, blue), url(../img/nat-6.jpg);
+  background-image: -webkit-gradient(linear, left top, right bottom, from(lightblue), to(darkblue)), url(../img/#.jpg);
+  background-image: linear-gradient(to right bottom, lightblue, darkblue), url(../img/#.jpg);
 }
 
 .card__picture--3 {
-  background-image: -webkit-gradient(linear, left top, right bottom, from(#2998ff), to(#5643fa)), url(../img/nat-7.jpg);
-  background-image: linear-gradient(to right bottom, #2998ff, #5643fa), url(../img/nat-7.jpg);
+  background-image: -webkit-gradient(linear, left top, right bottom, from(#2998ff), to(#5643fa)), url(../img/#.jpg);
+  background-image: linear-gradient(to right bottom, #2998ff, #5643fa), url(../img/#.jpg);
 }
 
 .card__heading {
@@ -521,8 +521,8 @@ body {
 }
 
 .card__heading-span--2 {
-  background-image: -webkit-gradient(linear, left top, right bottom, from(rgba(255, 255, 0, 0.85)), to(rgba(0, 0, 255, 0.85)));
-  background-image: linear-gradient(to right bottom, rgba(255, 255, 0, 0.85), rgba(0, 0, 255, 0.85));
+  background-image: -webkit-gradient(linear, left top, right bottom, from(rgba(173, 216, 230, 0.85)), to(rgba(0, 0, 139, 0.85)));
+  background-image: linear-gradient(to right bottom, rgba(173, 216, 230, 0.85), rgba(0, 0, 139, 0.85));
 }
 
 .card__heading-span--3 {
@@ -688,7 +688,7 @@ body {
 }
 
 .composition__photo:hover {
-  outline: 1.5rem solid red;
+  outline: 1.5rem solid blue;
   -webkit-transform: scale(1.05) translateY(-0.5rem);
           transform: scale(1.05) translateY(-0.5rem);
   -webkit-box-shadow: 0 2.5rem 4rem rgba(0, 0, 0, 0.5);
@@ -725,8 +725,8 @@ body {
   font-size: 6rem;
   margin-bottom: .5rem;
   display: inline-block;
-  background-image: -webkit-gradient(linear, left top, right top, from(yellow), to(blue));
-  background-image: linear-gradient(to right, yellow, blue);
+  background-image: -webkit-gradient(linear, left top, right top, from(lightblue), to(darkblue));
+  background-image: linear-gradient(to right, lightblue, darkblue);
   -webkit-background-clip: text;
   color: transparent;
 }
@@ -876,7 +876,7 @@ body {
   outline: none;
   -webkit-box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.1);
           box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.1);
-  border-bottom: 3px solid red;
+  border-bottom: 3px solid blue;
 }
 
 .form__input:focus:invalid {
@@ -930,7 +930,7 @@ body {
 .form__radio-button {
   height: 3rem;
   width: 3rem;
-  border: 5px solid red;
+  border: 5px solid blue;
   border-radius: 50%;
   display: inline-block;
   position: absolute;
@@ -949,7 +949,7 @@ body {
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
-  background-color: red;
+  background-color: blue;
   opacity: 0;
 }
 
@@ -1058,7 +1058,7 @@ body {
 }
 
 .popup__close:hover {
-  color: red;
+  color: blue;
 }
 
 .row {
@@ -1136,8 +1136,6 @@ body {
 
 .header {
   height: 85vh;
-  background-image: -webkit-gradient(linear, left top, right bottom, from(rgba(255, 255, 0, 0.8)), to(rgba(0, 0, 255, 0.8))), url(../img/hero-small.jpg);
-  background-image: linear-gradient(to right bottom, rgba(255, 255, 0, 0.8), rgba(0, 0, 255, 0.8)), url(../img/hero-small.jpg);
   background-size: cover;
   background-position: top;
   position: relative;
@@ -1148,13 +1146,6 @@ body {
     -webkit-clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
     clip-path: polygon(0 0, 100% 0, 100% 75vh, 0 100%);
     height: 95vh;
-  }
-}
-
-@media only screen and (-webkit-min-device-pixel-ratio: 2) and (min-width: 37.5em), only screen and (min-resolution: 192dpi) and (min-width: 37.5em), only screen and (min-width: 125em) {
-  .header {
-    background-image: -webkit-gradient(linear, left top, right bottom, from(rgba(255, 255, 0, 0.8)), to(rgba(0, 0, 255, 0.8))), url(../img/hero.jpg);
-    background-image: linear-gradient(to right bottom, rgba(255, 255, 0, 0.8), rgba(0, 0, 255, 0.8)), url(../img/hero.jpg);
   }
 }
 
@@ -1256,7 +1247,7 @@ body {
 }
 
 .footer__link:hover, .footer__link:active {
-  color: red;
+  color: blue;
   -webkit-box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.4);
           box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.4);
   -webkit-transform: rotate(5deg) scale(1.3);
@@ -1317,7 +1308,7 @@ body {
   position: fixed;
   top: 6.5rem;
   right: 6.5rem;
-  background-image: radial-gradient(yellow, blue);
+  background-image: radial-gradient(lightblue, darkblue);
   z-index: 1000;
   -webkit-transition: -webkit-transform 0.8s cubic-bezier(0.86, 0, 0.07, 1);
   transition: -webkit-transform 0.8s cubic-bezier(0.86, 0, 0.07, 1);
@@ -1387,7 +1378,7 @@ body {
 
 .navigation__link:hover, .navigation__link:active {
   background-position: 100%;
-  color: red;
+  color: blue;
   -webkit-transform: translateX(1rem);
           transform: translateX(1rem);
 }
@@ -1468,8 +1459,8 @@ body {
 
 .section-features {
   padding: 20rem 0;
-  background-image: -webkit-gradient(linear, left top, right bottom, from(rgba(255, 255, 0, 0.8)), to(rgba(0, 0, 255, 0.8))), url(../img/nat-4.jpg);
-  background-image: linear-gradient(to right bottom, rgba(255, 255, 0, 0.8), rgba(0, 0, 255, 0.8)), url(../img/nat-4.jpg);
+  background-image: -webkit-gradient(linear, left top, right bottom, from(rgba(173, 216, 230, 0.8)), to(rgba(0, 0, 139, 0.8))), url(../img/game_kids.jpg);
+  background-image: linear-gradient(to right bottom, rgba(173, 216, 230, 0.8), rgba(0, 0, 139, 0.8)), url(../img/game_kids.jpg);
   background-size: cover;
   margin-top: -10rem;
   -webkit-transform: skewY(-7deg);
@@ -1512,8 +1503,8 @@ body {
 
 .section-book {
   padding: 15rem 0;
-  background-image: -webkit-gradient(linear, left top, right bottom, from(yellow), to(blue));
-  background-image: linear-gradient(to right bottom, yellow, blue);
+  background-image: -webkit-gradient(linear, left top, right bottom, from(lightblue), to(darkblue));
+  background-image: linear-gradient(to right bottom, lightblue, darkblue);
 }
 
 @media only screen and (max-width: 56.25em) {
@@ -1523,7 +1514,7 @@ body {
 }
 
 .book {
-  background-image: linear-gradient(105deg, rgba(255, 255, 255, 0.9) 0%, rgba(255, 255, 255, 0.9), 50%, transparent 50%), url(../img/nat-10.jpg);
+  background-image: linear-gradient(105deg, rgba(255, 255, 255, 0.9) 0%, rgba(255, 255, 255, 0.9), 50%, transparent 50%), url(../img/#.jpg);
   background-size: 100%;
   border-radius: 3px;
   -webkit-box-shadow: 0 1.5rem 4rem rgba(0, 0, 0, 0.2);
@@ -1532,15 +1523,15 @@ body {
 
 @media only screen and (max-width: 75em) {
   .book {
-    background-image: linear-gradient(105deg, rgba(255, 255, 255, 0.9) 0%, rgba(255, 255, 255, 0.9) 65%, transparent 65%), url(../img/nat-10.jpg);
+    background-image: linear-gradient(105deg, rgba(255, 255, 255, 0.9) 0%, rgba(255, 255, 255, 0.9) 65%, transparent 65%), url(../img/#.jpg);
     background-size: cover;
   }
 }
 
 @media only screen and (max-width: 56.25em) {
   .book {
-    background-image: -webkit-gradient(linear, left top, right top, from(rgba(255, 255, 255, 0.9)), to(rgba(255, 255, 255, 0.9))), url(../img/nat-10.jpg);
-    background-image: linear-gradient(to right, rgba(255, 255, 255, 0.9) 0%, rgba(255, 255, 255, 0.9) 100%), url(../img/nat-10.jpg);
+    background-image: -webkit-gradient(linear, left top, right top, from(rgba(255, 255, 255, 0.9)), to(rgba(255, 255, 255, 0.9))), url(../img/#.jpg);
+    background-image: linear-gradient(to right, rgba(255, 255, 255, 0.9) 0%, rgba(255, 255, 255, 0.9) 100%), url(../img/#.jpg);
   }
 }
 
