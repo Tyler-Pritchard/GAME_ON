@@ -29,7 +29,7 @@
 
 .section-tours {
     background-color: $color-grey-light-1;
-    padding: 25rem 0 15rem 0;
+    padding: 25rem 0 0 0;
     margin-top: -10rem;
 
     @include respond(tab-port) {
@@ -39,10 +39,10 @@
 
 .section-stories {
     position: relative;
-    padding: 15rem 0;
+
 
     @include respond(tab-port) {
-        padding: 20rem 0 10rem 0;
+        padding: 20rem 0 0 0;
     }
 }
 
@@ -60,7 +60,7 @@
             rgba($color-white, .9) 0%,
             rgba($color-white, .9), 50%,
             transparent 50%),
-        url(../img/#.jpg);
+        url(../img/profile4.jpg);
     background-size: 100%;
     border-radius: 3px;
     box-shadow: 0 1.5rem 4rem rgba($color-black, .2);
