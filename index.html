@@ -11,7 +11,7 @@
   <link rel="stylesheet" href="css/style.css" />
   <link rel="shortcut icon" type="image/png" href="img/favicon.png" />
   <link rel="stylesheet" href="css/icon-font.css" />
-
+  <script src="https://www.gstatic.com/firebasejs/3.3.0/firebase.js"></script>
   <title>Game On</title>
 </head>
 
@@ -376,6 +376,26 @@
       </div>
     </div>
   </div>
+  <!-- The core Firebase JS SDK is always required and must be listed first -->
+  <script src="https://www.gstatic.com/firebasejs/6.2.4/firebase-app.js"></script>
+
+  <!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#config-web-app -->
+
+  <script>
+    // Your web app's Firebase configuration
+    var firebaseConfig = {
+      apiKey: "AIzaSyClOPZtXn63g9FfkXb2ysvO-d3Wnz3tr-Y",
+      authDomain: "gameon-draper.firebaseapp.com",
+      databaseURL: "https://gameon-draper.firebaseio.com",
+      projectId: "gameon-draper",
+      storageBucket: "gameon-draper.appspot.com",
+      messagingSenderId: "555726455489",
+      appId: "1:555726455489:web:f157f1585b815353"
+    };
+    // Initialize Firebase
+    firebase.initializeApp(firebaseConfig);
+  </script>
 
   <!--     
     <section class="grid-test">
