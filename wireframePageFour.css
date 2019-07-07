@@ -1,0 +1,9208 @@
+/* Group 8 */
+
+position: absolute;
+width: 1440px;
+height: 1024px;
+
+
+
+/* Group 5 */
+
+position: absolute;
+width: 1440px;
+height: 1024px;
+
+
+
+/* Desktop 2 */
+
+position: absolute;
+width: 1440px;
+height: 1024px;
+
+background: #FFFFFF;
+
+
+/* Group 2 */
+
+position: absolute;
+width: 1440px;
+height: 1024px;
+left: 0px;
+top: 0px;
+
+
+
+/* Desktop 2 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Group */
+
+position: absolute;
+width: 1440px;
+height: 1024px;
+left: 0px;
+top: 0px;
+
+
+
+/* Desktop */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Group 2 */
+
+position: absolute;
+width: 1440px;
+height: 105px;
+left: 0px;
+top: 0px;
+
+
+
+/* Group */
+
+position: absolute;
+width: 1440px;
+height: 105px;
+left: 0px;
+top: 0px;
+
+
+
+/* Colors/Light */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 89.75%;
+
+
+
+/* BG light */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: #ECEFF1;
+
+
+/* Text fields/Filled/search */
+
+position: absolute;
+left: 20.35%;
+right: 34.93%;
+top: 25.71%;
+bottom: 25.71%;
+
+
+
+/* Filled */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: #FFFFFF;
+border-radius: 3px;
+
+
+/* Typography/TXT Body Regular 14 sp */
+
+position: absolute;
+height: 20px;
+left: 32px;
+right: 5px;
+top: calc(50% - 20px/2 + 0.5px);
+
+
+
+/* TXT Body Regular 14 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Text & Edit/search */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 0px;
+top: calc(50% - 32px/2 + 0.5px);
+
+
+
+/* Vector */
+
+position: absolute;
+width: 17.5px;
+height: 17.5px;
+left: calc(50% - 17.5px/2 - 0.25px);
+top: calc(50% - 17.5px/2 - 0.25px);
+
+background: #9E9E9E;
+
+
+/* Typography/TXT Title Medium 20 sp */
+
+position: absolute;
+height: 24px;
+left: 54px;
+right: 26px;
+top: calc(50% - 24px/2 - 0.5px);
+
+
+
+/* TXT Title Medium 20 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 26px;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* IC menu */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 8px;
+top: calc(50% - 40px/2 - 459px);
+
+
+
+/* Vector */
+
+position: absolute;
+width: 18px;
+height: 12px;
+left: calc(50% - 18px/2);
+top: calc(50% - 12px/2);
+
+background: #9E9E9E;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 40px;
+height: 40px;
+right: 8px;
+top: calc(50% - 40px/2 - 459px);
+
+
+
+/* Vector */
+
+position: absolute;
+width: 4px;
+height: 16px;
+left: calc(50% - 4px/2);
+top: calc(50% - 16px/2);
+
+background: #9E9E9E;
+
+
+/* Icons/Alerts & Notif/bell */
+
+position: absolute;
+width: 40px;
+height: 40px;
+right: 56px;
+top: calc(50% - 40px/2 - 459px);
+
+
+
+/* Vector */
+
+position: absolute;
+width: 18px;
+height: 20px;
+left: calc(50% - 18px/2);
+top: calc(50% - 20px/2);
+
+background: #9E9E9E;
+
+
+/* Misc/Avatar 40x40 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+right: 112px;
+top: calc(50% - 40px/2 - 459px);
+
+
+
+/* Avatar 40x40 */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: url(av.jpg);
+border-radius: 99px;
+
+
+/* Group 3 */
+
+position: absolute;
+width: 199px;
+height: 53px;
+left: 1185px;
+top: 118px;
+
+
+
+/* Mailbox/Stroked Button */
+
+position: absolute;
+height: 53px;
+left: 90.55%;
+right: 3.89%;
+top: 118px;
+
+
+
+/* Mailbox/BG Stroked */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* BG Stroked */
+
+position: absolute;
+left: 0px;
+right: 0.1px;
+top: 0px;
+bottom: 0px;
+
+background: #ECEFF1;
+border: 1px solid #D3E2E8;
+box-sizing: border-box;
+border-radius: 3px;
+
+
+/* Icons/Menu & Settings/settings */
+
+position: absolute;
+width: 40px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 19.45px;
+height: 20px;
+left: calc(50% - 19.45px/2 - 0px);
+top: calc(50% - 20px/2 + 0.5px);
+
+background: #9E9E9E;
+
+
+/* Icons/Arrows/dropdown */
+
+position: absolute;
+width: 40px;
+right: 0.1px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 5px;
+height: 10px;
+left: calc(50% - 5px/2 - 2.5px);
+top: calc(50% - 10px/2 + 7.5px);
+
+background: #9E9E9E;
+transform: rotate(-90deg);
+
+
+/* Mailbox/Stroked Button */
+
+position: absolute;
+height: 53px;
+left: 82.29%;
+right: 14.23%;
+top: 118px;
+
+
+
+/* Mailbox/BG Stroked */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* BG Stroked */
+
+position: absolute;
+left: 0px;
+right: 0.06px;
+top: 0px;
+bottom: 0px;
+
+background: #ECEFF1;
+border: 1px solid #D3E2E8;
+box-sizing: border-box;
+border-radius: 3px;
+
+
+/* Icons/Arrows/chevron-left */
+
+position: absolute;
+width: 40px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Shape */
+
+position: absolute;
+width: 7px;
+height: 12px;
+left: calc(50% - 7px/2 - 0.5px);
+top: calc(50% - 12px/2 + 0.5px);
+
+background: #9E9E9E;
+
+
+/* Icons/Arrows/dropdown */
+
+position: absolute;
+width: 40px;
+right: 0.06px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/Stroked Button */
+
+position: absolute;
+height: 53px;
+left: 85.68%;
+right: 10.84%;
+top: 118px;
+
+
+
+/* Mailbox/BG Stroked */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* BG Stroked */
+
+position: absolute;
+left: 0px;
+right: 0.06px;
+top: 0px;
+bottom: 0px;
+
+background: #ECEFF1;
+border: 1px solid #D3E2E8;
+box-sizing: border-box;
+border-radius: 3px;
+
+
+/* Icons/Arrows/chevron-right */
+
+position: absolute;
+width: 40px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Shape */
+
+position: absolute;
+width: 7px;
+height: 12px;
+left: calc(50% - 7px/2 - 0.5px);
+top: calc(50% - 12px/2 + 0.5px);
+
+background: #9E9E9E;
+
+
+/* Icons/Arrows/dropdown */
+
+position: absolute;
+width: 40px;
+right: 0.06px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Right Table */
+
+position: absolute;
+height: 687px;
+left: 20.35%;
+right: 3.89%;
+top: 191px;
+
+
+
+/* Mailbox/#Multigrid 48px */
+
+position: absolute;
+height: 640px;
+left: 0%;
+right: 0%;
+top: 0px;
+
+background: #ECEFF1;
+
+
+/* Mialbox/Border */
+
+position: absolute;
+height: 2px;
+left: 0px;
+right: 0px;
+top: 0px;
+
+
+
+/* Line Body */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(16, 65, 87, 0.08);
+
+
+/* Mialbox/Border */
+
+position: absolute;
+height: 1px;
+left: 0px;
+right: 0px;
+top: 50px;
+
+
+
+/* Line Body */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(16, 65, 87, 0.08);
+
+
+/* Mialbox/Border */
+
+position: absolute;
+height: 1px;
+left: 0px;
+right: 0px;
+top: 99px;
+
+
+
+/* Line Body */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(16, 65, 87, 0.08);
+
+
+/* Mialbox/Border */
+
+position: absolute;
+height: 1px;
+left: 0px;
+right: 0px;
+top: 148px;
+
+
+
+/* Line Body */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(16, 65, 87, 0.08);
+
+
+/* Mialbox/Border */
+
+position: absolute;
+height: 1px;
+left: 0px;
+right: 0px;
+top: 197px;
+
+
+
+/* Line Body */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(16, 65, 87, 0.08);
+
+
+/* Mialbox/Border */
+
+position: absolute;
+height: 1px;
+left: 0px;
+right: 0px;
+top: 246px;
+
+
+
+/* Line Body */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(16, 65, 87, 0.08);
+
+
+/* Mialbox/Border */
+
+position: absolute;
+height: 1px;
+left: 0px;
+right: 0px;
+top: 295px;
+
+
+
+/* Line Body */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(16, 65, 87, 0.08);
+
+
+/* Mialbox/Border */
+
+position: absolute;
+height: 1px;
+left: 0px;
+right: 0px;
+top: 344px;
+
+
+
+/* Line Body */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(16, 65, 87, 0.08);
+
+
+/* Mialbox/Border */
+
+position: absolute;
+height: 1px;
+left: 0px;
+right: 0px;
+top: 393px;
+
+
+
+/* Line Body */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(16, 65, 87, 0.08);
+
+
+/* Mialbox/Border */
+
+position: absolute;
+height: 1px;
+left: 0px;
+right: 0px;
+top: 442px;
+
+
+
+/* Line Body */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(16, 65, 87, 0.08);
+
+
+/* Mialbox/Border */
+
+position: absolute;
+height: 1px;
+left: 0px;
+right: 0px;
+top: 491px;
+
+
+
+/* Line Body */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(16, 65, 87, 0.08);
+
+
+/* Mialbox/Border */
+
+position: absolute;
+height: 1px;
+left: 0px;
+right: 0px;
+top: 540px;
+
+
+
+/* Line Body */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(16, 65, 87, 0.08);
+
+
+/* Mialbox/Border */
+
+position: absolute;
+height: 1px;
+left: 0px;
+right: 0px;
+top: 589px;
+
+
+
+/* Line Body */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(16, 65, 87, 0.08);
+
+
+/* Mialbox/Border */
+
+position: absolute;
+height: 1px;
+left: 0px;
+right: 0px;
+top: 638px;
+
+
+
+/* Line Body */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(16, 65, 87, 0.08);
+
+
+/* Mialbox/Border */
+
+position: absolute;
+height: 1px;
+left: 0px;
+right: 0px;
+top: 687px;
+
+
+
+/* Line Body */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(16, 65, 87, 0.08);
+
+
+/* Mialbox/Border */
+
+position: absolute;
+height: 1px;
+left: 0px;
+right: 0px;
+top: 736px;
+
+
+
+/* Line Body */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(16, 65, 87, 0.08);
+
+
+/* Mialbox/Border */
+
+position: absolute;
+height: 1px;
+left: 0px;
+right: 0px;
+top: 785px;
+
+
+
+/* Line Body */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(16, 65, 87, 0.08);
+
+
+/* Mialbox/Border */
+
+position: absolute;
+height: 1px;
+left: 0px;
+right: 0px;
+top: 834px;
+
+
+
+/* Line Body */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(16, 65, 87, 0.08);
+
+
+/* Mialbox/Border */
+
+position: absolute;
+height: 1px;
+left: 0px;
+right: 0px;
+top: 883px;
+
+
+
+/* Line Body */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(16, 65, 87, 0.08);
+
+
+/* Mialbox/Border */
+
+position: absolute;
+height: 1px;
+left: 0px;
+right: 0px;
+top: 932px;
+
+
+
+/* Line Body */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(16, 65, 87, 0.08);
+
+
+/* Mialbox/Border */
+
+position: absolute;
+height: 1px;
+left: 0px;
+right: 0px;
+top: 981px;
+
+
+
+/* Line Body */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(16, 65, 87, 0.08);
+
+
+/* Mialbox/Border */
+
+position: absolute;
+height: 1px;
+left: 0px;
+right: 0px;
+top: 1030px;
+
+
+
+/* Line Body */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(16, 65, 87, 0.08);
+
+
+/* Mialbox/Border */
+
+position: absolute;
+height: 1px;
+left: 0px;
+right: 0px;
+top: 1079px;
+
+
+
+/* Line Body */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(16, 65, 87, 0.08);
+
+
+/* Mialbox/Border */
+
+position: absolute;
+height: 1px;
+left: 0px;
+right: 0px;
+top: 1128px;
+
+
+
+/* Line Body */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(16, 65, 87, 0.08);
+
+
+/* Mialbox/Border */
+
+position: absolute;
+height: 1px;
+left: 0px;
+right: 0px;
+top: 1177px;
+
+
+
+/* Line Body */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(16, 65, 87, 0.08);
+
+
+/* Mialbox/Border */
+
+position: absolute;
+height: 1px;
+left: 0px;
+right: 0px;
+top: 1226px;
+
+
+
+/* Line Body */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(16, 65, 87, 0.08);
+
+
+/* Mailbox/#Multicolumn Sender */
+
+position: absolute;
+width: 221px;
+height: 539px;
+left: 9px;
+top: 2px;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 0px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Shape */
+
+position: absolute;
+left: 21.88%;
+right: 21.88%;
+top: 31.25%;
+bottom: 31.25%;
+
+background: #9E9E9E;
+
+
+/* Path */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: calc(50% - 14px/2);
+top: calc(50% - 14px/2);
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: calc(50% - 18px/2);
+top: calc(50% - 18px/2);
+
+background: #DADADA;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Vector */
+
+position: absolute;
+width: 20px;
+height: 19px;
+left: calc(50% - 20px/2);
+top: calc(50% - 19px/2 - 0.5px);
+
+background: #9E9E9E;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 49px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Shape */
+
+position: absolute;
+left: 21.88%;
+right: 21.88%;
+top: 31.25%;
+bottom: 31.25%;
+
+background: #9E9E9E;
+
+
+/* Path */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: calc(50% - 14px/2);
+top: calc(50% - 14px/2);
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: calc(50% - 18px/2);
+top: calc(50% - 18px/2);
+
+background: #DADADA;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Vector */
+
+position: absolute;
+width: 20px;
+height: 19px;
+left: calc(50% - 20px/2);
+top: calc(50% - 19px/2 - 0.5px);
+
+background: #9E9E9E;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 98px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Shape */
+
+position: absolute;
+left: 21.88%;
+right: 21.88%;
+top: 31.25%;
+bottom: 31.25%;
+
+background: #9E9E9E;
+
+
+/* Path */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: calc(50% - 14px/2);
+top: calc(50% - 14px/2);
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: calc(50% - 18px/2);
+top: calc(50% - 18px/2);
+
+background: #DADADA;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Vector */
+
+position: absolute;
+width: 20px;
+height: 19px;
+left: calc(50% - 20px/2);
+top: calc(50% - 19px/2 - 0.5px);
+
+background: #9E9E9E;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 147px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Shape */
+
+position: absolute;
+left: 21.88%;
+right: 21.88%;
+top: 31.25%;
+bottom: 31.25%;
+
+background: #9E9E9E;
+
+
+/* Path */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: calc(50% - 14px/2);
+top: calc(50% - 14px/2);
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: calc(50% - 18px/2);
+top: calc(50% - 18px/2);
+
+background: #DADADA;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Vector */
+
+position: absolute;
+width: 20px;
+height: 19px;
+left: calc(50% - 20px/2);
+top: calc(50% - 19px/2 - 0.5px);
+
+background: #9E9E9E;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 196px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Shape */
+
+position: absolute;
+left: 21.88%;
+right: 21.88%;
+top: 31.25%;
+bottom: 31.25%;
+
+background: #9E9E9E;
+
+
+/* Path */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: calc(50% - 14px/2);
+top: calc(50% - 14px/2);
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: calc(50% - 18px/2);
+top: calc(50% - 18px/2);
+
+background: #DADADA;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Vector */
+
+position: absolute;
+width: 20px;
+height: 19px;
+left: calc(50% - 20px/2);
+top: calc(50% - 19px/2 - 0.5px);
+
+background: #9E9E9E;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 245px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Shape */
+
+position: absolute;
+left: 21.88%;
+right: 21.88%;
+top: 31.25%;
+bottom: 31.25%;
+
+background: #9E9E9E;
+
+
+/* Path */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: calc(50% - 14px/2);
+top: calc(50% - 14px/2);
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: calc(50% - 18px/2);
+top: calc(50% - 18px/2);
+
+background: #DADADA;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Vector */
+
+position: absolute;
+width: 20px;
+height: 19px;
+left: calc(50% - 20px/2);
+top: calc(50% - 19px/2 - 0.5px);
+
+background: #9E9E9E;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 294px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Shape */
+
+position: absolute;
+left: 21.88%;
+right: 21.88%;
+top: 31.25%;
+bottom: 31.25%;
+
+background: #9E9E9E;
+
+
+/* Path */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: calc(50% - 14px/2);
+top: calc(50% - 14px/2);
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: calc(50% - 18px/2);
+top: calc(50% - 18px/2);
+
+background: #DADADA;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Vector */
+
+position: absolute;
+width: 20px;
+height: 19px;
+left: calc(50% - 20px/2);
+top: calc(50% - 19px/2 - 0.5px);
+
+background: #9E9E9E;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 343px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Shape */
+
+position: absolute;
+left: 21.88%;
+right: 21.88%;
+top: 31.25%;
+bottom: 31.25%;
+
+background: #9E9E9E;
+
+
+/* Path */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: calc(50% - 14px/2);
+top: calc(50% - 14px/2);
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: calc(50% - 18px/2);
+top: calc(50% - 18px/2);
+
+background: #DADADA;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Vector */
+
+position: absolute;
+width: 20px;
+height: 19px;
+left: calc(50% - 20px/2);
+top: calc(50% - 19px/2 - 0.5px);
+
+background: #9E9E9E;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 392px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Shape */
+
+position: absolute;
+left: 21.88%;
+right: 21.88%;
+top: 31.25%;
+bottom: 31.25%;
+
+background: #9E9E9E;
+
+
+/* Path */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: calc(50% - 14px/2);
+top: calc(50% - 14px/2);
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: calc(50% - 18px/2);
+top: calc(50% - 18px/2);
+
+background: #DADADA;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Vector */
+
+position: absolute;
+width: 20px;
+height: 19px;
+left: calc(50% - 20px/2);
+top: calc(50% - 19px/2 - 0.5px);
+
+background: #9E9E9E;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 441px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Shape */
+
+position: absolute;
+left: 21.88%;
+right: 21.88%;
+top: 31.25%;
+bottom: 31.25%;
+
+background: #9E9E9E;
+
+
+/* Path */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: calc(50% - 14px/2);
+top: calc(50% - 14px/2);
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: calc(50% - 18px/2);
+top: calc(50% - 18px/2);
+
+background: #DADADA;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Vector */
+
+position: absolute;
+width: 20px;
+height: 19px;
+left: calc(50% - 20px/2);
+top: calc(50% - 19px/2 - 0.5px);
+
+background: #9E9E9E;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 490px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Shape */
+
+position: absolute;
+left: 21.88%;
+right: 21.88%;
+top: 31.25%;
+bottom: 31.25%;
+
+background: #9E9E9E;
+
+
+/* Path */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: calc(50% - 14px/2);
+top: calc(50% - 14px/2);
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: calc(50% - 18px/2);
+top: calc(50% - 18px/2);
+
+background: #DADADA;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Vector */
+
+position: absolute;
+width: 20px;
+height: 19px;
+left: calc(50% - 20px/2);
+top: calc(50% - 19px/2 - 0.5px);
+
+background: #9E9E9E;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 539px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Shape */
+
+position: absolute;
+left: 21.88%;
+right: 21.88%;
+top: 31.25%;
+bottom: 31.25%;
+
+background: #9E9E9E;
+
+
+/* Path */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: calc(50% - 14px/2);
+top: calc(50% - 14px/2);
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: calc(50% - 18px/2);
+top: calc(50% - 18px/2);
+
+background: #DADADA;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Vector */
+
+position: absolute;
+width: 20px;
+height: 19px;
+left: calc(50% - 20px/2);
+top: calc(50% - 19px/2 - 0.5px);
+
+background: #9E9E9E;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 588px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Shape */
+
+position: absolute;
+left: 21.88%;
+right: 21.88%;
+top: 31.25%;
+bottom: 31.25%;
+
+background: #9E9E9E;
+
+
+/* Path */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: calc(50% - 14px/2);
+top: calc(50% - 14px/2);
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: calc(50% - 18px/2);
+top: calc(50% - 18px/2);
+
+background: #DADADA;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Vector */
+
+position: absolute;
+width: 20px;
+height: 19px;
+left: calc(50% - 20px/2);
+top: calc(50% - 19px/2 - 0.5px);
+
+background: #9E9E9E;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 637px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Shape */
+
+position: absolute;
+left: 21.88%;
+right: 21.88%;
+top: 31.25%;
+bottom: 31.25%;
+
+background: #9E9E9E;
+
+
+/* Path */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: calc(50% - 14px/2);
+top: calc(50% - 14px/2);
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: calc(50% - 18px/2);
+top: calc(50% - 18px/2);
+
+background: #DADADA;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Vector */
+
+position: absolute;
+width: 20px;
+height: 19px;
+left: calc(50% - 20px/2);
+top: calc(50% - 19px/2 - 0.5px);
+
+background: #9E9E9E;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 686px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Shape */
+
+position: absolute;
+left: 21.88%;
+right: 21.88%;
+top: 31.25%;
+bottom: 31.25%;
+
+background: #9E9E9E;
+
+
+/* Path */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: calc(50% - 14px/2);
+top: calc(50% - 14px/2);
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: calc(50% - 18px/2);
+top: calc(50% - 18px/2);
+
+background: #DADADA;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Vector */
+
+position: absolute;
+width: 20px;
+height: 19px;
+left: calc(50% - 20px/2);
+top: calc(50% - 19px/2 - 0.5px);
+
+background: #9E9E9E;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 735px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Shape */
+
+position: absolute;
+left: 21.88%;
+right: 21.88%;
+top: 31.25%;
+bottom: 31.25%;
+
+background: #9E9E9E;
+
+
+/* Path */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: calc(50% - 14px/2);
+top: calc(50% - 14px/2);
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: calc(50% - 18px/2);
+top: calc(50% - 18px/2);
+
+background: #DADADA;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Vector */
+
+position: absolute;
+width: 20px;
+height: 19px;
+left: calc(50% - 20px/2);
+top: calc(50% - 19px/2 - 0.5px);
+
+background: #9E9E9E;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 784px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Shape */
+
+position: absolute;
+left: 21.88%;
+right: 21.88%;
+top: 31.25%;
+bottom: 31.25%;
+
+background: #9E9E9E;
+
+
+/* Path */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: calc(50% - 14px/2);
+top: calc(50% - 14px/2);
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: calc(50% - 18px/2);
+top: calc(50% - 18px/2);
+
+background: #DADADA;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Vector */
+
+position: absolute;
+width: 20px;
+height: 19px;
+left: calc(50% - 20px/2);
+top: calc(50% - 19px/2 - 0.5px);
+
+background: #9E9E9E;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 833px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Shape */
+
+position: absolute;
+left: 21.88%;
+right: 21.88%;
+top: 31.25%;
+bottom: 31.25%;
+
+background: #9E9E9E;
+
+
+/* Path */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: calc(50% - 14px/2);
+top: calc(50% - 14px/2);
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: calc(50% - 18px/2);
+top: calc(50% - 18px/2);
+
+background: #DADADA;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Vector */
+
+position: absolute;
+width: 20px;
+height: 19px;
+left: calc(50% - 20px/2);
+top: calc(50% - 19px/2 - 0.5px);
+
+background: #9E9E9E;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 882px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Shape */
+
+position: absolute;
+left: 21.88%;
+right: 21.88%;
+top: 31.25%;
+bottom: 31.25%;
+
+background: #9E9E9E;
+
+
+/* Path */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: calc(50% - 14px/2);
+top: calc(50% - 14px/2);
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: calc(50% - 18px/2);
+top: calc(50% - 18px/2);
+
+background: #DADADA;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Vector */
+
+position: absolute;
+width: 20px;
+height: 19px;
+left: calc(50% - 20px/2);
+top: calc(50% - 19px/2 - 0.5px);
+
+background: #9E9E9E;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 931px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Shape */
+
+position: absolute;
+left: 21.88%;
+right: 21.88%;
+top: 31.25%;
+bottom: 31.25%;
+
+background: #9E9E9E;
+
+
+/* Path */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: calc(50% - 14px/2);
+top: calc(50% - 14px/2);
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: calc(50% - 18px/2);
+top: calc(50% - 18px/2);
+
+background: #DADADA;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Vector */
+
+position: absolute;
+width: 20px;
+height: 19px;
+left: calc(50% - 20px/2);
+top: calc(50% - 19px/2 - 0.5px);
+
+background: #9E9E9E;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 980px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Shape */
+
+position: absolute;
+left: 21.88%;
+right: 21.88%;
+top: 31.25%;
+bottom: 31.25%;
+
+background: #9E9E9E;
+
+
+/* Path */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: calc(50% - 14px/2);
+top: calc(50% - 14px/2);
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: calc(50% - 18px/2);
+top: calc(50% - 18px/2);
+
+background: #DADADA;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Vector */
+
+position: absolute;
+width: 20px;
+height: 19px;
+left: calc(50% - 20px/2);
+top: calc(50% - 19px/2 - 0.5px);
+
+background: #9E9E9E;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 1029px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Shape */
+
+position: absolute;
+left: 21.88%;
+right: 21.88%;
+top: 31.25%;
+bottom: 31.25%;
+
+background: #9E9E9E;
+
+
+/* Path */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: calc(50% - 14px/2);
+top: calc(50% - 14px/2);
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: calc(50% - 18px/2);
+top: calc(50% - 18px/2);
+
+background: #DADADA;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Vector */
+
+position: absolute;
+width: 20px;
+height: 19px;
+left: calc(50% - 20px/2);
+top: calc(50% - 19px/2 - 0.5px);
+
+background: #9E9E9E;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 1078px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Shape */
+
+position: absolute;
+left: 21.88%;
+right: 21.88%;
+top: 31.25%;
+bottom: 31.25%;
+
+background: #9E9E9E;
+
+
+/* Path */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: calc(50% - 14px/2);
+top: calc(50% - 14px/2);
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: calc(50% - 18px/2);
+top: calc(50% - 18px/2);
+
+background: #DADADA;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Vector */
+
+position: absolute;
+width: 20px;
+height: 19px;
+left: calc(50% - 20px/2);
+top: calc(50% - 19px/2 - 0.5px);
+
+background: #9E9E9E;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 1127px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Shape */
+
+position: absolute;
+left: 21.88%;
+right: 21.88%;
+top: 31.25%;
+bottom: 31.25%;
+
+background: #9E9E9E;
+
+
+/* Path */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: calc(50% - 14px/2);
+top: calc(50% - 14px/2);
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: calc(50% - 18px/2);
+top: calc(50% - 18px/2);
+
+background: #DADADA;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Vector */
+
+position: absolute;
+width: 20px;
+height: 19px;
+left: calc(50% - 20px/2);
+top: calc(50% - 19px/2 - 0.5px);
+
+background: #9E9E9E;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 1176px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Shape */
+
+position: absolute;
+left: 21.88%;
+right: 21.88%;
+top: 31.25%;
+bottom: 31.25%;
+
+background: #9E9E9E;
+
+
+/* Path */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: calc(50% - 14px/2);
+top: calc(50% - 14px/2);
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: calc(50% - 18px/2);
+top: calc(50% - 18px/2);
+
+background: #DADADA;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Vector */
+
+position: absolute;
+width: 20px;
+height: 19px;
+left: calc(50% - 20px/2);
+top: calc(50% - 19px/2 - 0.5px);
+
+background: #9E9E9E;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 1225px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Shape */
+
+position: absolute;
+left: 21.88%;
+right: 21.88%;
+top: 31.25%;
+bottom: 31.25%;
+
+background: #9E9E9E;
+
+
+/* Path */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: calc(50% - 14px/2);
+top: calc(50% - 14px/2);
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: calc(50% - 18px/2);
+top: calc(50% - 18px/2);
+
+background: #DADADA;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Vector */
+
+position: absolute;
+width: 20px;
+height: 19px;
+left: calc(50% - 20px/2);
+top: calc(50% - 19px/2 - 0.5px);
+
+background: #9E9E9E;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 1274px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Shape */
+
+position: absolute;
+left: 21.88%;
+right: 21.88%;
+top: 31.25%;
+bottom: 31.25%;
+
+background: #9E9E9E;
+
+
+/* Path */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: calc(50% - 14px/2);
+top: calc(50% - 14px/2);
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: calc(50% - 18px/2);
+top: calc(50% - 18px/2);
+
+background: #DADADA;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Vector */
+
+position: absolute;
+width: 20px;
+height: 19px;
+left: calc(50% - 20px/2);
+top: calc(50% - 19px/2 - 0.5px);
+
+background: #9E9E9E;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 1323px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Shape */
+
+position: absolute;
+left: 21.88%;
+right: 21.88%;
+top: 31.25%;
+bottom: 31.25%;
+
+background: #9E9E9E;
+
+
+/* Path */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: calc(50% - 14px/2);
+top: calc(50% - 14px/2);
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: calc(50% - 18px/2);
+top: calc(50% - 18px/2);
+
+background: #DADADA;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Vector */
+
+position: absolute;
+width: 20px;
+height: 19px;
+left: calc(50% - 20px/2);
+top: calc(50% - 19px/2 - 0.5px);
+
+background: #9E9E9E;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/#Multicolumn Sender */
+
+position: absolute;
+height: 539px;
+left: 20.36%;
+right: 14.88%;
+top: 2px;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: -0.45px;
+top: 0px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: -0.45px;
+top: 49px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* GameON */
+
+position: absolute;
+left: -72.1%;
+right: 148.18%;
+top: 1166.67%;
+bottom: -1429.17%;
+
+background: url(GameON.png);
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: -0.02%;
+right: 0.02%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: -0.45px;
+top: 98px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: -0.45px;
+top: 147px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: -0.45px;
+top: 196px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: -0.45px;
+top: 245px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: -0.45px;
+top: 294px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: -0.45px;
+top: 343px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: -0.45px;
+top: 392px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: -0.45px;
+top: 441px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: -0.45px;
+top: 490px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: -0.45px;
+top: 539px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Shape */
+
+position: absolute;
+left: 21.88%;
+right: 21.88%;
+top: 31.25%;
+bottom: 31.25%;
+
+background: #9E9E9E;
+
+
+/* Path */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: calc(50% - 14px/2);
+top: calc(50% - 14px/2);
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: calc(50% - 18px/2);
+top: calc(50% - 18px/2);
+
+background: #DADADA;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Vector */
+
+position: absolute;
+width: 20px;
+height: 19px;
+left: calc(50% - 20px/2);
+top: calc(50% - 19px/2 - 0.5px);
+
+background: #9E9E9E;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: -0.45px;
+top: 588px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Shape */
+
+position: absolute;
+left: 21.88%;
+right: 21.88%;
+top: 31.25%;
+bottom: 31.25%;
+
+background: #9E9E9E;
+
+
+/* Path */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: calc(50% - 14px/2);
+top: calc(50% - 14px/2);
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: calc(50% - 18px/2);
+top: calc(50% - 18px/2);
+
+background: #DADADA;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Vector */
+
+position: absolute;
+width: 20px;
+height: 19px;
+left: calc(50% - 20px/2);
+top: calc(50% - 19px/2 - 0.5px);
+
+background: #9E9E9E;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: -0.45px;
+top: 637px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Shape */
+
+position: absolute;
+left: 21.88%;
+right: 21.88%;
+top: 31.25%;
+bottom: 31.25%;
+
+background: #9E9E9E;
+
+
+/* Path */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: calc(50% - 14px/2);
+top: calc(50% - 14px/2);
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: calc(50% - 18px/2);
+top: calc(50% - 18px/2);
+
+background: #DADADA;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Vector */
+
+position: absolute;
+width: 20px;
+height: 19px;
+left: calc(50% - 20px/2);
+top: calc(50% - 19px/2 - 0.5px);
+
+background: #9E9E9E;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: -0.45px;
+top: 686px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Shape */
+
+position: absolute;
+left: 21.88%;
+right: 21.88%;
+top: 31.25%;
+bottom: 31.25%;
+
+background: #9E9E9E;
+
+
+/* Path */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: calc(50% - 14px/2);
+top: calc(50% - 14px/2);
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: calc(50% - 18px/2);
+top: calc(50% - 18px/2);
+
+background: #DADADA;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Vector */
+
+position: absolute;
+width: 20px;
+height: 19px;
+left: calc(50% - 20px/2);
+top: calc(50% - 19px/2 - 0.5px);
+
+background: #9E9E9E;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: -0.45px;
+top: 735px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Shape */
+
+position: absolute;
+left: 21.88%;
+right: 21.88%;
+top: 31.25%;
+bottom: 31.25%;
+
+background: #9E9E9E;
+
+
+/* Path */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: calc(50% - 14px/2);
+top: calc(50% - 14px/2);
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: calc(50% - 18px/2);
+top: calc(50% - 18px/2);
+
+background: #DADADA;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Vector */
+
+position: absolute;
+width: 20px;
+height: 19px;
+left: calc(50% - 20px/2);
+top: calc(50% - 19px/2 - 0.5px);
+
+background: #9E9E9E;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: -0.45px;
+top: 784px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Shape */
+
+position: absolute;
+left: 21.88%;
+right: 21.88%;
+top: 31.25%;
+bottom: 31.25%;
+
+background: #9E9E9E;
+
+
+/* Path */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: calc(50% - 14px/2);
+top: calc(50% - 14px/2);
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: calc(50% - 18px/2);
+top: calc(50% - 18px/2);
+
+background: #DADADA;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Vector */
+
+position: absolute;
+width: 20px;
+height: 19px;
+left: calc(50% - 20px/2);
+top: calc(50% - 19px/2 - 0.5px);
+
+background: #9E9E9E;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: -0.45px;
+top: 833px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Shape */
+
+position: absolute;
+left: 21.88%;
+right: 21.88%;
+top: 31.25%;
+bottom: 31.25%;
+
+background: #9E9E9E;
+
+
+/* Path */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: calc(50% - 14px/2);
+top: calc(50% - 14px/2);
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: calc(50% - 18px/2);
+top: calc(50% - 18px/2);
+
+background: #DADADA;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Vector */
+
+position: absolute;
+width: 20px;
+height: 19px;
+left: calc(50% - 20px/2);
+top: calc(50% - 19px/2 - 0.5px);
+
+background: #9E9E9E;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: -0.45px;
+top: 882px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Shape */
+
+position: absolute;
+left: 21.88%;
+right: 21.88%;
+top: 31.25%;
+bottom: 31.25%;
+
+background: #9E9E9E;
+
+
+/* Path */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: calc(50% - 14px/2);
+top: calc(50% - 14px/2);
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: calc(50% - 18px/2);
+top: calc(50% - 18px/2);
+
+background: #DADADA;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Vector */
+
+position: absolute;
+width: 20px;
+height: 19px;
+left: calc(50% - 20px/2);
+top: calc(50% - 19px/2 - 0.5px);
+
+background: #9E9E9E;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: -0.45px;
+top: 931px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Shape */
+
+position: absolute;
+left: 21.88%;
+right: 21.88%;
+top: 31.25%;
+bottom: 31.25%;
+
+background: #9E9E9E;
+
+
+/* Path */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: calc(50% - 14px/2);
+top: calc(50% - 14px/2);
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: calc(50% - 18px/2);
+top: calc(50% - 18px/2);
+
+background: #DADADA;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Vector */
+
+position: absolute;
+width: 20px;
+height: 19px;
+left: calc(50% - 20px/2);
+top: calc(50% - 19px/2 - 0.5px);
+
+background: #9E9E9E;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: -0.45px;
+top: 980px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Shape */
+
+position: absolute;
+left: 21.88%;
+right: 21.88%;
+top: 31.25%;
+bottom: 31.25%;
+
+background: #9E9E9E;
+
+
+/* Path */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: calc(50% - 14px/2);
+top: calc(50% - 14px/2);
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: calc(50% - 18px/2);
+top: calc(50% - 18px/2);
+
+background: #DADADA;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Vector */
+
+position: absolute;
+width: 20px;
+height: 19px;
+left: calc(50% - 20px/2);
+top: calc(50% - 19px/2 - 0.5px);
+
+background: #9E9E9E;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: -0.45px;
+top: 1029px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Shape */
+
+position: absolute;
+left: 21.88%;
+right: 21.88%;
+top: 31.25%;
+bottom: 31.25%;
+
+background: #9E9E9E;
+
+
+/* Path */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: calc(50% - 14px/2);
+top: calc(50% - 14px/2);
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: calc(50% - 18px/2);
+top: calc(50% - 18px/2);
+
+background: #DADADA;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Vector */
+
+position: absolute;
+width: 20px;
+height: 19px;
+left: calc(50% - 20px/2);
+top: calc(50% - 19px/2 - 0.5px);
+
+background: #9E9E9E;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: -0.45px;
+top: 1078px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Shape */
+
+position: absolute;
+left: 21.88%;
+right: 21.88%;
+top: 31.25%;
+bottom: 31.25%;
+
+background: #9E9E9E;
+
+
+/* Path */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: calc(50% - 14px/2);
+top: calc(50% - 14px/2);
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: calc(50% - 18px/2);
+top: calc(50% - 18px/2);
+
+background: #DADADA;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Vector */
+
+position: absolute;
+width: 20px;
+height: 19px;
+left: calc(50% - 20px/2);
+top: calc(50% - 19px/2 - 0.5px);
+
+background: #9E9E9E;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: -0.45px;
+top: 1127px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Shape */
+
+position: absolute;
+left: 21.88%;
+right: 21.88%;
+top: 31.25%;
+bottom: 31.25%;
+
+background: #9E9E9E;
+
+
+/* Path */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: calc(50% - 14px/2);
+top: calc(50% - 14px/2);
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: calc(50% - 18px/2);
+top: calc(50% - 18px/2);
+
+background: #DADADA;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Vector */
+
+position: absolute;
+width: 20px;
+height: 19px;
+left: calc(50% - 20px/2);
+top: calc(50% - 19px/2 - 0.5px);
+
+background: #9E9E9E;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: -0.45px;
+top: 1176px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Shape */
+
+position: absolute;
+left: 21.88%;
+right: 21.88%;
+top: 31.25%;
+bottom: 31.25%;
+
+background: #9E9E9E;
+
+
+/* Path */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: calc(50% - 14px/2);
+top: calc(50% - 14px/2);
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: calc(50% - 18px/2);
+top: calc(50% - 18px/2);
+
+background: #DADADA;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Vector */
+
+position: absolute;
+width: 20px;
+height: 19px;
+left: calc(50% - 20px/2);
+top: calc(50% - 19px/2 - 0.5px);
+
+background: #9E9E9E;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: -0.45px;
+top: 1225px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Shape */
+
+position: absolute;
+left: 21.88%;
+right: 21.88%;
+top: 31.25%;
+bottom: 31.25%;
+
+background: #9E9E9E;
+
+
+/* Path */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: calc(50% - 14px/2);
+top: calc(50% - 14px/2);
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: calc(50% - 18px/2);
+top: calc(50% - 18px/2);
+
+background: #DADADA;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Vector */
+
+position: absolute;
+width: 20px;
+height: 19px;
+left: calc(50% - 20px/2);
+top: calc(50% - 19px/2 - 0.5px);
+
+background: #9E9E9E;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: -0.45px;
+top: 1274px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Shape */
+
+position: absolute;
+left: 21.88%;
+right: 21.88%;
+top: 31.25%;
+bottom: 31.25%;
+
+background: #9E9E9E;
+
+
+/* Path */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: calc(50% - 14px/2);
+top: calc(50% - 14px/2);
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: calc(50% - 18px/2);
+top: calc(50% - 18px/2);
+
+background: #DADADA;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Vector */
+
+position: absolute;
+width: 20px;
+height: 19px;
+left: calc(50% - 20px/2);
+top: calc(50% - 19px/2 - 0.5px);
+
+background: #9E9E9E;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: -0.45px;
+top: 1323px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Shape */
+
+position: absolute;
+left: 21.88%;
+right: 21.88%;
+top: 31.25%;
+bottom: 31.25%;
+
+background: #9E9E9E;
+
+
+/* Path */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: calc(50% - 14px/2);
+top: calc(50% - 14px/2);
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: calc(50% - 18px/2);
+top: calc(50% - 18px/2);
+
+background: #DADADA;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Vector */
+
+position: absolute;
+width: 20px;
+height: 19px;
+left: calc(50% - 20px/2);
+top: calc(50% - 19px/2 - 0.5px);
+
+background: #9E9E9E;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/#Multicolumn Sender */
+
+position: absolute;
+width: 141px;
+height: 539px;
+right: 16px;
+top: 2px;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 0px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+text-align: right;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Date & Time/calendar */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 18px;
+height: 20px;
+left: calc(50% - 18px/2);
+top: calc(50% - 20px/2);
+
+background: #9E9E9E;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 49px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+text-align: right;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Files & Folders/attachment */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 20px;
+height: 11px;
+left: calc(50% - 20px/2);
+top: calc(50% - 11px/2 - 0.5px);
+
+background: #9E9E9E;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 98px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+text-align: right;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 147px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+text-align: right;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 196px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+text-align: right;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Files & Folders/attachment */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 20px;
+height: 11px;
+left: calc(50% - 20px/2);
+top: calc(50% - 11px/2 - 0.5px);
+
+background: #9E9E9E;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 245px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+text-align: right;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 294px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+text-align: right;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 343px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+text-align: right;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 392px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+text-align: right;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 441px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+text-align: right;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 490px;
+
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 32px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Typography/TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 80px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* TXT Subheading Regular 16 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+display: flex;
+align-items: center;
+text-align: right;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Social/star-outline */
+
+position: absolute;
+width: 32px;
+left: 32px;
+top: 0%;
+bottom: 0%;
+
+opacity: 0.48;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 32px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 539px;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 588px;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 637px;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 686px;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 735px;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 784px;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 833px;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 882px;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 931px;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 980px;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 1029px;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 1078px;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 1127px;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 1176px;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 1225px;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 1274px;
+
+
+
+/* Mailbox/List Sender */
+
+position: absolute;
+height: 48px;
+left: 0px;
+right: 0px;
+top: 1323px;
+
+
+
+/* Mailbox/Stroked Button */
+
+position: absolute;
+height: 45px;
+left: 20.35%;
+right: 75.14%;
+top: 126px;
+
+
+
+/* Mailbox/BG Stroked */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* BG Stroked */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: #ECEFF1;
+border: 1px solid #D3E2E8;
+box-sizing: border-box;
+border-radius: 3px;
+
+
+/* Icons/Selection/checked empty */
+
+position: absolute;
+width: 40px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Shape */
+
+position: absolute;
+left: 27.5%;
+right: 27.5%;
+top: 31.11%;
+bottom: 28.89%;
+
+background: #9E9E9E;
+
+
+/* Path */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: calc(50% - 14px/2);
+top: calc(50% - 14px/2 + 0.5px);
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: calc(50% - 18px/2);
+top: calc(50% - 18px/2 + 0.5px);
+
+background: #DADADA;
+
+
+/* Icons/Arrows/dropdown */
+
+position: absolute;
+width: 40px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 5px;
+height: 10px;
+left: calc(50% - 5px/2 - 2.5px);
+top: calc(50% - 10px/2 + 7.5px);
+
+background: #9E9E9E;
+transform: rotate(-90deg);
+
+
+/* Left Navigation */
+
+position: absolute;
+height: 501px;
+left: 0.83%;
+right: 80.83%;
+top: 388px;
+
+
+
+/* Mailbox/Navigation List Active */
+
+position: absolute;
+height: 48px;
+left: 0%;
+right: 0%;
+top: 0px;
+
+
+
+/* BG */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+
+
+/* BG light */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: #FFFFFF;
+
+
+/* Active Status */
+
+position: absolute;
+width: 4px;
+left: 0px;
+top: 0px;
+bottom: 0px;
+
+
+
+/* BG accent */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: #FF5722;
+
+
+/* Typography/TXT Title Medium 20 sp */
+
+position: absolute;
+height: 24px;
+left: 14%;
+right: 16%;
+top: calc(50% - 24px/2);
+
+
+
+/* TXT Title Medium 20 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 26px;
+
+color: rgba(0, 0, 0, 0.87);
+
+
+
+/* Icons/Files & Folders/folder-outline */
+
+position: absolute;
+width: 48px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+
+
+/* Mailbox/Navigation List Active */
+
+position: absolute;
+height: 48px;
+left: 0%;
+right: 0%;
+top: 48px;
+
+
+
+/* BG */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+
+
+/* BG light */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: #FFFFFF;
+
+
+/* Active Status */
+
+position: absolute;
+width: 4px;
+left: 0px;
+top: 0px;
+bottom: 0px;
+
+
+
+/* Typography/TXT Title Medium 20 sp */
+
+position: absolute;
+height: 24px;
+left: 14%;
+right: 16%;
+top: calc(50% - 24px/2);
+
+
+
+/* TXT Title Medium 20 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 26px;
+
+color: rgba(0, 0, 0, 0.54);
+
+
+
+/* Icons/Files & Folders/folder-outline */
+
+position: absolute;
+width: 48px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+
+
+/* Mailbox/Navigation List Active */
+
+position: absolute;
+height: 48px;
+left: 0%;
+right: 0%;
+top: 96px;
+
+
+
+/* BG */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+
+
+/* BG light */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: #FFFFFF;
+
+
+/* Active Status */
+
+position: absolute;
+width: 4px;
+left: 0px;
+top: 0px;
+bottom: 0px;
+
+
+
+/* Typography/TXT Title Medium 20 sp */
+
+position: absolute;
+height: 24px;
+left: 14%;
+right: 16%;
+top: calc(50% - 24px/2);
+
+
+
+/* TXT Title Medium 20 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 26px;
+
+color: rgba(0, 0, 0, 0.54);
+
+
+
+/* Icons/Files & Folders/folder-outline */
+
+position: absolute;
+width: 48px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+
+
+/* Mailbox/Navigation List Active */
+
+position: absolute;
+height: 48px;
+left: 0%;
+right: 0%;
+top: 144px;
+
+
+
+/* BG */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+
+
+/* BG light */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: #FFFFFF;
+
+
+/* Active Status */
+
+position: absolute;
+width: 4px;
+left: 0px;
+top: 0px;
+bottom: 0px;
+
+
+
+/* Typography/TXT Title Medium 20 sp */
+
+position: absolute;
+height: 24px;
+left: 14%;
+right: 16%;
+top: calc(50% - 24px/2);
+
+
+
+/* TXT Title Medium 20 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 26px;
+
+color: rgba(0, 0, 0, 0.54);
+
+
+
+/* Icons/Files & Folders/folder-outline */
+
+position: absolute;
+width: 48px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+
+
+/* Mailbox/Navigation List Active */
+
+position: absolute;
+height: 48px;
+left: 0%;
+right: 0%;
+top: 192px;
+
+
+
+/* BG */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+
+
+/* BG light */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: #FFFFFF;
+
+
+/* Active Status */
+
+position: absolute;
+width: 4px;
+left: 0px;
+top: 0px;
+bottom: 0px;
+
+
+
+/* Typography/TXT Title Medium 20 sp */
+
+position: absolute;
+height: 24px;
+left: 14%;
+right: 16%;
+top: calc(50% - 24px/2);
+
+
+
+/* TXT Title Medium 20 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 26px;
+
+color: rgba(0, 0, 0, 0.54);
+
+
+
+/* Icons/Files & Folders/folder-outline */
+
+position: absolute;
+width: 48px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+
+
+/* Mailbox/Navigation List Active */
+
+position: absolute;
+height: 48px;
+left: 0%;
+right: 0%;
+top: 280px;
+
+
+
+/* BG */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+
+
+/* BG light */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: #FFFFFF;
+
+
+/* Active Status */
+
+position: absolute;
+width: 4px;
+left: 0px;
+top: 0px;
+bottom: 0px;
+
+
+
+/* Typography/TXT Title Medium 20 sp */
+
+position: absolute;
+height: 24px;
+left: 14%;
+right: 16%;
+top: calc(50% - 24px/2);
+
+
+
+/* TXT Title Medium 20 sp */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 26px;
+
+color: rgba(0, 0, 0, 0.54);
+
+
+
+/* Icons/Arrows/chevron-down */
+
+position: absolute;
+width: 48px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 12px;
+height: 7.42px;
+left: calc(50% - 12px/2);
+top: calc(50% - 7.42px/2 - 0.29px);
+
+background: #9E9E9E;
+
+
+/* Mialbox/Border */
+
+position: absolute;
+height: 1px;
+left: 0%;
+right: 0%;
+top: 271px;
+
+
+
+/* Line Body */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(16, 65, 87, 0.08);
+
+
+/* Mialbox/Border */
+
+position: absolute;
+height: 1px;
+left: 0%;
+right: 0%;
+top: 336px;
+
+
+
+/* Line Body */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(16, 65, 87, 0.08);
+
+
+/* Button */
+
+position: absolute;
+height: 63px;
+left: 1.11%;
+right: 80.83%;
+top: 300px;
+
+
+
+/* Colors/Accent */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* BG accent */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: #FF5722;
+box-shadow: 0px 4px 8px rgba(255, 87, 34, 0.24);
+border-radius: 3px;
+
+
+/* Buttons/Flat/Default */
+
+position: absolute;
+left: 20px;
+right: 20px;
+top: 12px;
+bottom: 12px;
+
+
+
+/* Typography/TXT Medium 14 sp */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+
+
+/* TXT Medium 14 sp */
+
+position: absolute;
+left: 27.08%;
+right: 26.39%;
+top: 13.64%;
+bottom: 9.09%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* Icons/Text & Edit/edit */
+
+position: absolute;
+width: 40px;
+left: 0px;
+top: 0px;
+bottom: 0px;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: calc(50% - 18px/2 + 0px);
+top: calc(50% - 18px/2 + 0.5px);
+
+background: #FFFFFF;
+
+
+/* Mailbox/Stroked Button */
+
+position: absolute;
+height: 45px;
+left: 25.9%;
+right: 70.69%;
+top: 126px;
+
+
+
+/* Mailbox/BG Stroked */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* BG Stroked */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: #ECEFF1;
+border: 1px solid #D3E2E8;
+box-sizing: border-box;
+border-radius: 3px;
+
+
+/* Icons/Arrows/autorenew */
+
+position: absolute;
+width: 40px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 16px;
+height: 22px;
+left: calc(50% - 16px/2);
+top: calc(50% - 22px/2 + 0.5px);
+
+background: #9E9E9E;
+
+
+/* Icons/Arrows/dropdown */
+
+position: absolute;
+width: 40px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mailbox/Stroked Button */
+
+position: absolute;
+height: 45px;
+left: 30.07%;
+right: 66.88%;
+top: 126px;
+
+
+
+/* Mailbox/BG Stroked */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* BG Stroked */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: #ECEFF1;
+border: 1px solid #D3E2E8;
+box-sizing: border-box;
+border-radius: 3px;
+
+
+/* Icons/Menu & Settings/more_vert */
+
+position: absolute;
+width: 40px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 4px;
+height: 16px;
+left: calc(50% - 4px/2);
+top: calc(50% - 16px/2 + 0.5px);
+
+background: #9E9E9E;
+
+
+/* Icons/Arrows/dropdown */
+
+position: absolute;
+width: 40px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+
+
+/* GameON */
+
+position: absolute;
+width: 209px;
+height: 164px;
+left: 37px;
+top: 125px;
+
+background: url(GameON.png);
+
+
+/* Rectangle */
+
+position: absolute;
+width: 1090px;
+height: 638px;
+left: 293px;
+top: 189px;
+
+background: #F2F2F2;
+border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Group 3 */
+
+position: absolute;
+width: 655px;
+height: 67px;
+left: 510px;
+top: 743px;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 655px;
+height: 67px;
+left: 510px;
+top: 743px;
+
+background: #C4C4C4;
+
+
+/* SEND */
+
+position: absolute;
+width: 426px;
+height: 58px;
+left: 625px;
+top: 747px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 24px;
+/* or 67% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Rectangle 2.1 */
+
+position: absolute;
+left: 20.97%;
+right: 4.72%;
+top: 19.34%;
+bottom: 29.49%;
+
+/* Gray 5 */
+background: #E0E0E0;
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 655px;
+height: 67px;
+left: 509px;
+top: 743px;
+
+background: #C4C4C4;
+
+
+/* BACK TO INBOX */
+
+position: absolute;
+width: 426px;
+height: 58px;
+left: 624px;
+top: 746px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 24px;
+/* or 67% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Your message has been sent. THANK YOU! */
+
+position: absolute;
+width: 501px;
+height: 117px;
+left: 587px;
+top: 399px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 24px;
+/* or 67% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
