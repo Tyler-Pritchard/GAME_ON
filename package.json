@@ -24,7 +24,8 @@
     },
     "homepage": "https://github.com/tejashah88/GameOn-App#readme",
     "dependencies": {
-        "autoprefixer": "^9.6.0"
+        "autoprefixer": "^9.6.0",
+        "sass": "^1.22.3"
     },
     "devDependencies": {
         "concat": "^1.0.3",
